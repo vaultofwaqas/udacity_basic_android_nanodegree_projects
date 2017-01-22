@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">InventoryApp</string>
+    <string name="add_inventory">Add Inventory</string>
+    <string name="product_name">Name: </string>
+    <string name="quantity">Quantity: </string>
+    <string name="price">Price: </string>
+    <string name="rupees">Rs.</string>
+    <string name="save">Save!</string>
+
+    <string name="action_delete_all_entries">Delete All Inventory\'s</string>
+
+    <string name="save_quantity">Save!</string>
+    <string name="sale">Sale</string>
+    <string name="order">Order</string>
+    <string name="delete">Delete Inventory</string>
+
+    <string name="inventory_delete_failed">Current Inventory Delete Failed</string>
+
+    <string name="inventory_delete_successful">Current Inventory Delete Successful</string>
+
+    <string name="inventory_quantity_save_failed">Inventory Quantity Save Failed</string>
+
+    <string name="inventory_quantity_save_successful">Inventory Quantity Save was Successful</string>
+
+    <string name="current_product_sale_failed">Current Product Sale Failed</string>
+
+    <string name="current_product_sale_successful">Current product was sold succesfully</string>
+
+    <string name="empty_view_title_text">Inventory List is empty ...</string>
+
+</resources>
